@@ -25,3 +25,11 @@ downloads/
 # OS
 .DS_Store
 Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Icon source
+/create_icon.py

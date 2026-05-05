@@ -74,9 +74,16 @@ descargas/ejemplo.com_2026-05-05/
 - **Sin duplicados**: detecta archivos idénticos por hash
 - **Cancelable**: puedes detener el proceso en cualquier momento
 
+### Versión portable (Windows)
+
+Si prefieres no instalar Python, descarga el ejecutable portable desde la sección [Releases](https://github.com/Caarrasco22/public-image-collector/releases):
+
+- Descarga `PublicImageCollector.exe`
+- Ejecuta directamente, no requiere instalación
+
 ### Requisitos
 
-- Python 3.10+
+- Python 3.10+ (solo para modo desarrollo)
 - Windows, macOS o Linux
 
 ### Licencia
@@ -147,9 +154,16 @@ downloads/example.com_2026-05-05/
 - **No duplicates**: detects identical files by hash
 - **Cancellable**: you can stop the process at any time
 
+### Portable version (Windows)
+
+If you prefer not to install Python, download the portable executable from the [Releases](https://github.com/Caarrasco22/public-image-collector/releases) section:
+
+- Download `PublicImageCollector.exe`
+- Run directly, no installation required
+
 ### Requirements
 
-- Python 3.10+
+- Python 3.10+ (development mode only)
 - Windows, macOS or Linux
 
 ### License
